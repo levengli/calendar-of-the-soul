@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- Default strings, don't duplicate across locales -->
+    <string name="app_name">Calendar of the Soul</string>
+    <string name="default_lang">en</string>
+    <string name="dummy_week">"52  "</string>
+    <string name="app_author" formatted="false"><![CDATA[<a href="mailto:dov.levenglick@gmail.com?subject=Calendar%20of%20the%20Soul%20app">Dov Levenglick</a>]]></string>
+    <string name="about_main_menu">Shows the main menu</string>
+    <string name="link">https://play.google.com/store/apps/details?id=il.org.rimon_edu.calendarofthesoul</string>
+    
+    <!-- 
+        <string name="easter_dates_src">http://www.gmarts.org/index.php?go=413</string>
+    -->
+    
+</resources>

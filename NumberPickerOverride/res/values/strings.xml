@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">NumberPicker</string>
+    <string name="go_up">Up</string>
+    <string name="go_down">Down</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    
+</resources>

@@ -1,0 +1,27 @@
+1. When adding a locale
+    a. add a calendar.xml file to the relevant "values" folder
+    b. add Set<Language,locale> to showLanguageMenu()
+
+2. TODO:
+	a. New backgrounds?
+	c. Southern Hemisphere
+	d. Select fonts
+	e. User chosen background
+	f. Add scrollbars to ZoomTextView
+
+3. Next revision
+	a. Splash screen	
+	b. Allow more than one translation for each language
+
+4. Is this plausible
+	a. Alert on change
+
+
+The days of the week exercises are from Steiner's lecture series "Guidance in Esoteric Training":
+http://wn.rsarchive.org/Books/GuidEsot;lines=227-582
+
+There is a different one for each day of the week.
+Its a daily exercise which is a little bit like modern cognitive behavioural therapy.
+I have the programmed into a javascript driven web site, but its a bit messy:
+
+http://www.hudson.nu/steiner-days-of-week-exercises.html	

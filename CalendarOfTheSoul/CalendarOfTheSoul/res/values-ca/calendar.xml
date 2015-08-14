@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+     <!-- Language dependant UI -->
+    <string name="title"> El Calendario del Alma </string>
+    <string name="version">Versionsnummer </string>
+    
+    <!-- Menu entires -->
+    <string name="current_week">Setmana actual</string>
+    <string name="corresponding_week">Corresponent setmana</string>
+    <string name="select_week">Seleccioneu setmanes</string>
+    <string name="set_date">Establir data</string>
+    <string name="change_lang">Canviar l\'idioma</string>
+    <string name="share">Participació</string>
+    <string name="about">Sobre</string>
+    <string name="quit">Deixar de</string>
+    
+    <!-- Builds the credit caption "<translation>: <translator>" (e.g. Translation: John Doe) -->
+    <string name="translation">"Traducción:"</string>
+    <string name="translator">"Miguel López-Manresa"</string>
+    
+    <!-- The origin from which this translation was obtained  -->
+    <string name="source"><![CDATA[<a href="http://www.paudedamasc.com/?cuaderno=el-calendari-de-l%60anima">Editorial Pau de Damasc</a>]]></string>
+    
+    <!-- Information regarding the language -->
+    <string name="dir">LTR</string>
+    
+    <!--  Sharing the app -->
+    <string name="reccomend">M\'agradaria recomanar el calendari de l\'aplicació Soul. Visita Google Play per descarregar</string>
+    
+    <!-- Verses in order from Week01 to Week52 -->
+    <string name="week">Setmana</string>
+    <string-array name="verses">
+    
+        <item>"     <!--  Week 01 -->
+        Des de les vastituts de l’univers
+parla el sol al sentit de l’home
+i sortit dels fons de l’ànima, quan mira,
+el goig s’uneix a la llum;
+surten aleshores de l’embolcall del jo mateix
+pensaments cap als espais llunyans
+i lliguen sordament l’ésser de l’home
+a l’existència de l’esperit.
+        "</item>
+    
+        <item>"     <!--  Week 02 -->
+Allà fora, a dins l’univers sensorial,
+el poder del pensament perd¬ l’existèn¬cia que li és pròpia;
+els mons de l’esperit troben de nou
+el brot de l’home
+que haurà de trobar en ells la seva llavor,
+però és dins d’ell mateix
+que descobrirà el seu fruit anímic.
+        "</item>
+        
+        <item>"     <!--  Week 03 -->
+A l’univers li parla
+el jo creixent de l’home
+i s’oblida d’ell mateix,
+tot recordant el seu estat original:
+Dins teu, abandonant les cadenes
+de les meves particularitats
+fonamento el meu ésser genuí.
+        "</item>
+                
+        <item>"     <!--  Week 04 -->
+Sento l’essència del meu ésser:
+així parla la sensació
+que en el món assolellat
+s’uneix amb corrents de llum;
+la sensació vol atorgar escalfor
+a la claror del pensar
+i vol amb fermesa enllac,ar
+l’home i el món en unitat.
+        "</item>
+                
+        <item>"     <!--  Week 05 -->
+En la llum que revela la creació dels déus
+i que teixeix fruitosa en l’espai
+des dels fons de l’esperit;
+dins seu apareix l’ésser de l’ànima
+engrandit fins a l’existència del món
+i ressuscitat
+des de l’íntim poder del jo estret.
+        "</item>
+                
+        <item>"     <!--  Week 06 -->
+Ha ressorgit des de la particularitat,
+el meu jo, i es veu ell mateix
+com a manifestació de l’univers
+en les forces del temps i de l’espai;
+el món se’m mostra arreu
+com arquetipus diví
+de la veritat de la meva pròpia imatge.
+        "</item>
+                
+        <item>"     <!--  Week 07 -->
+El meu jo amenac,a d’enfugir-se
+atret fortament per la llum del món.
+Entra-hi tu ara, intuir meu,
+amb forc,a dins del teu dret,
+i relleva’m el poder del pensar
+que en l’aparenc,a dels sentits
+es vol perdre ell mateix.
+        "</item>
+                
+        <item>"     <!--  Week 08 -->
+Tot creix el poder dels sentits
+i unit a la crecaió dels déus
+m’abaixa la forc,a mental
+portant-la a l’abúlia del son.
+Si l’esser diví vol
+fondre’s amb l’ànima meva,
+el pensar de l’home
+al somni pacífic haurà de lliurar-se.
+        "</item>
+                
+        <item>"     <!--  Week 09 -->
+Oblidant ma voluntat particular
+l’escalfor del món proclama ja l’estiu
+omplint-me esp’rit i ànima;
+que em perdi dins de la llum,
+l’esguard de l’esperit em mana,
+i, tot ple de forc,a, em diu l’intuir:
+t’hauràs de perdre, si vols trobart-te.
+        "</item>
+                        
+        <item>"     <!--  Week 10 -->
+A les altures de l’estiu
+l’ésser del sol s’enlaira resplendent
+i s’emporta el meu sentir humà
+a les seves amplàries de l’espai.
+La sensació es mou a dins quan intueixo
+que m’anuncia sordament:
+un dia te n’adonaràs:
+t’acaba de sentir un ésser diví.
+        "</item>
+        
+        <item>"     <!--  Week 11 -->
+En aquesta l’hora pel sol omplerta
+hauràs de copsar la sàvia notícia:
+tot tu lliurat a l’encís del cosmos
+per viure sentint a dins teu:
+pot perdre’s ara el jo humà
+i immergit trobar-se en el jo del món.
+        "</item>
+        
+        <item>"     <!--  Week 12 -->
+L’esclat formós dels mons
+del fons de l’ànima, a dins, em forc,a
+a deslliurar en còsmic vol
+poders divins de l’ésser propi,
+que jo mateix m’abandoni
+i em busqui tot confiat només
+en la llum i l’escalfor de l’univers.
+        "</item>
+        
+        <item>"     <!--  Week 13 -->
+Quan soc a l’alt cim dels sentits
+flameja dins dels fons de l’ànima,
+des de mons de foc d’esperit,
+el verb de veritat dels déus:
+busca intuir en els fonaments de l’esperit
+i troba-t’hi  emparentat.
+        "</item>
+                
+        <item>"     <!--  Week 14 -->
+Lliurat a la revelació dels sentits
+vaig perdre l’impuls del meu ésser propi;
+el somni del pensar m’atordia
+i semblava robar-me el jo.
+Però ara se m’acosta i em desperta,
+en la brillantor dels sentits,
+el pensar universal.
+        "</item>
+                
+        <item>"     <!--  Week 15 -->
+Sento l’esperit que teixeix
+com si estigués encisat
+en la lluentor dels sentits.
+En la foscor sensorial
+s’embolcalla el meu ésser propi
+per oferir-me la forc,a:
+ja que, impotent per donar-se ell mateix
+el meu jo es troba en les seves barreres.
+        "</item>
+                
+        <item>"     <!--  Week 16 -->
+Resguardar a dins l’ofrena de l’esperit
+em demana rigorós el meu intuir,
+a fi que els dons de Déu quan madurin
+i fructifiquin en els fons de l’ànima,
+portin els fruits del propi jo.
+        "</item>
+                
+        <item>"     <!--  Week 17 -->
+Així parla el Verb còsmic
+que pels portals dels sentits
+vaig poder conduir cap als fonaments de l’ànima:
+Omple les fondàries del teu esperit
+amb les meves amplituds universals,
+perquè un dia em trobis a dins teu.
+        "</item>
+                
+        <item>"     <!--  Week 18 -->
+Puc engrandir la meva ànima
+perquè entri en unió
+amb el Verb germinal que he acollit ?
+Intueixo que he de trobar la forc,a
+per donar digna forma a l’ànima
+i fer-la indument de l’esperit.
+        "</item>
+                
+        <item>"     <!--  Week 19 -->
+Que l’altre sentit del meu esforc,
+sigui envoltar secretament amb el record
+allò que tot just he rebut.
+Aquest sentit despertarà dins meu
+les pròpies forces que es vigoritzen
+i, quan això s’esdevingui, em donarà el jo.
+        "</item>
+                        
+        <item>"     <!--  Week 20 -->
+Ara comenc,o a sentir el meu ésser
+que, si estigués allunyat
+de l’existència del cosmos,
+s’hauria d’extingir dins d’ell mateix,
+i si es bastís tan sols sobre el propi fonament,
+es donaria mort dins d’ell mateix.
+        "</item>
+                
+        <item>"     <!--  Week 21 -->
+Sento un poder alié que dóna fruit,
+i que, en prendre forc,a,m’atorga el meu jo.
+Sento la llavor que madura
+i com teixeix lluminós l’intuir,
+a dins, en el poder del jo mateix.
+        "</item>
+        
+        <item>"     <!--  Week 22 -->
+La llum de les vastituds de l’univers
+encara viu amb forc,a a dins:
+allà esdevé llum de l’ànima
+i resplendeix en les fondàries de l’esperit
+per alliberar fruits
+que fan madurar, en el curs del temps,
+el jo humà, des del jo de l’univers.
+       "</item>
+        
+        <item>"     <!--  Week 23 -->
+S’apaivaga tardorenc
+l’anhel d’estímuls sensorials;
+en la manifestació de la llum s’encreuen
+els bromosos vels de la boira.
+Jo miro en els llunyans espais
+el somni hivernal de la tardor.
+L’estiu se m’ha donat a si mateix.
+        "</item>
+                
+        <item>"     <!--  Week 24 -->
+En creació persistent de si mateix,
+l’ésser de l’ànima esdevé autoconscient.
+L’esperit universal continua aspirant,
+revifat de nou en el coneixement de si,
+i extreu de les tenebres de l’ànima
+el fruit volitiu del sentit d’un mateix.
+        "</item>
+                
+        <item>"     <!--  Week 25 -->
+Ara puc pertànyer a mi mateix
+i difondre resplendent la llum de dins
+cap a la foscor de l’espai i del temps.
+L’ésser natural incita al son;
+els fons de l’ànima hauran de despertar
+i, en fer-ho, portar el caliu del sol
+cap als corrents fredorosos d’hivern.
+        "</item>
+                
+        <item>"     <!--  Week 26 -->
+Natura, el teu ésser maternal
+jo el porto en el meu ésser volitiu,
+i el fogós braó del meu voler
+trempa els impulsos del meu esperit,
+a fi que engendrin el sentiment del jo
+per portar-me jo dins meu.
+        "</item>
+                
+        <item>"     <!--  Week 27 -->
+A penetrar en les fondàries del meu ésser
+m’esperona un anhel intuitiu,
+que quan jo miri en mi mateix em trobi
+com a ofrena solar de l’estiu,
+que viu donant calor dins l’ànim tardorenc,
+com a impuls dinàmic de la meva ànima.
+        "</item>
+                
+        <item>"     <!--  Week 28 -->
+Revifat de nou a dins, puc sentir
+les amplàries del meu ésser
+i, ple de forc,a, escampar rajos de pensament
+des del poder solar de l’ànima,
+que resolguin els enigmes de la vida,
+i donar acompliment a alguns desitjos
+que l’esperanc,a comenc,ava a deturar.
+        "</item>
+                
+        <item>"     <!--  Week 29 -->
+Inflamar jo mateix a dins
+intensament la llum del pensar,
+donant sentit ple a allò que s’ha viscut
+des de la font de forces de l’esperitdels mons
+això és ara la meva herència d’estiu,
+el repós de la tardor, l’esperanc,a d’hivern.
+        "</item>
+                        
+        <item>"     <!--  Week 30 -->
+Broten davant meu, a la llum solar de l’estiu,
+els fruits madurs del pensar,
+i en la certesa de l’autoconsciència
+tot sentir és transformat.
+Puc sentir, ple de goig,
+com desperta l’esperit de la tardor:
+l’hivern desvetllarà a dins meu
+l’estiu de l’ànima.
+        "</item>
+                
+        <item>"     <!--  Week 31 -->
+La llum dels fons de l’esperit
+aspira cap enfora com el sol:
+Esdevé poder volitiu de vida
+i resplendeix en la foscor dels sentits
+a fi d’alliberar forces
+que, dels impulsos de l’ànima,
+facin madurar els poders creadors
+en l’obra humana.
+        "</item>
+        
+        <item>"     <!--  Week 32 -->
+Sento com fructifica la forc,a pròpia
+i, en enfortir-se em lliura en el món;
+sento com pren forc,a el meu ésser
+per encaminar-se a la claror
+en l’acció que teixeix el destí de la vida.
+        "</item>
+        
+        <item>"     <!--  Week 33 -->
+Comenc,o a sentir el món
+que, si la meva ànima
+no el fes viure a dins seu,
+per ell mateix seria vida glac,ada i buida,
+i revelaria la seva impotència;
+si no es creés de nou a dins les ànimes,
+en ell sol només trobaria la mort.
+        "</item>
+                
+        <item>"     <!--  Week 34 -->
+Haig de sentir a dins com es revifa misteriós
+ressuscitat amb ésser propi,
+allò preservat d’antic:
+I quan això desperti, vessarà forces còsmiques
+a l’obra exterior de la meva vida
+i, a mesura que s’esdevingui,
+m’encunyarà en l’existència.
+        "</item>
+                
+        <item>"     <!--  Week 35 -->
+Puc reconéixer l’ésser
+que torna a trobar-se
+en l’empenta creadora de l’ànima?
+Sento que se m’atorga el poder
+d’adaptar humilment el propi jo
+com a membre del Jo universal.
+        "</item>
+                
+        <item>"     <!--  Week 36 -->
+En les fondàries del meu ésser,
+tot prement per manifestar-se,
+el Verb còsmic parla misteriós:
+Acompleix els fins del teu treball
+amb la meva llum d’esperit
+per donar-te tu en ofrena a través meu.
+        "</item>
+                
+        <item>"     <!--  Week 37 -->
+Joiós s’afanya l’embat del meu cor
+a portar la llum de l’esperit
+a la nit hivernal del món,
+a fi que germens de l’ànima, lluint,
+arrelin en els fonament de l’univers
+i el Verb de Déu ressoni en la foscor sensorial
+i tot ho transfiguri.
+        "</item>
+                
+        <item>"     <!--  Week 38 -->
+Sento el fill de l’esperit
+com deslliurat de l’encís
+en el si de l’ànima,
+ell ha engendrat en la claror del cor
+el sant Verb de l’univers,
+el fruit celestial de l’esperanc,a
+que creix joiós cap a les llunyanies del món
+des del fonamet diví del meu ésser.
+        "</item>
+                
+        <item>"     <!--  Week 39 -->
+Lliurat a la revelació de l’esperit
+faig meva la llum de l’essència del món.
+El poder del pensar creix i es fa clar
+per atorgar-me el meu jo,
+i des d’aquest poder, desvetllant-se,
+s’em deslliga el sentiment del jo.
+        "</item>
+                        
+        <item>"     <!--  Week 40 -->
+Quan sóc a les fondàries de l’esperit
+se m’omple dins dels fonaments de l’àni¬ma,
+des de mons d’amor del cor,
+la buida il.lusió de les peculiaritats
+amb el poder flamejant del Verb universal.
+        "</item>
+                
+        <item>"     <!--  Week 41 -->
+El poder creador de l’ànima
+s’esforc,a, des del fonament del cor,
+a inflamar forces divines
+dins la vida humana,a fi que actui en el bé,
+i a formar-se ell mateix
+dins l’amor i les obres de l’home.
+        "</item>
+        
+        <item>"     <!--  Week 42 -->
+En aquesta foscor de l’hivern
+és l’impuls més poderós de l’ànima
+la manifestació de la seva pròpia forc,a, 
+conduir la dins les tenebres
+i pressentir la revelació dels sentits
+intuint-la amb el caliu del cor.
+        "</item>
+        
+        <item>"     <!--  Week 43 -->
+En les fondàries hivernals
+s’escalfa el veritable ésser de l’esperit;
+donant-li a la aparenc,a del món
+poders existencials amb les forces del cor;
+el foc de l’ànima dins l’home pren forc,a
+i fa front al fred del món.
+        "</item>
+                
+        <item>"     <!--  Week 44 -->
+En captar els nous estímuls sensorials
+la claror de l’ànima que evoca
+el naixament acomplert de l’esperit,
+omple l’esdevenir brollant i torbador
+amb el voler creador del meu pensar.
+        "</item>
+                
+        <item>"     <!--  Week 45 -->
+S’aferma el poder del pensament
+unit amb el naixament de l’esperit,
+i il.lumina els foscos estímuls sensorials
+cap a la plena claredat.
+Si la plenitud de l’ànima
+vol unir-se amb l’esdevenir del món,
+la revelació dels sentits
+haurà d’acollir la llum del pensament.
+        "</item>
+                
+        <item>"     <!--  Week 46 -->
+El món amenac,a d’atordir
+el poder ingènit de l’ànima.
+Entra-hi tu ara, record, i atorga
+la llum des dels fons de l’esperit,
+i fortifica’m la visió
+que només pot mantenir-se
+amb les forces del voler.
+        "</item>
+                
+        <item>"     <!--  Week 47 -->
+De les entranyes del món
+vol tornar a néixer el goig d’arribar a ser
+que reviu l’aparenc,a dels sentits.
+Que trobi el poder del meu pensar
+armat amb les forces de Déu
+que viuen intenses a dins meu.
+        "</item>
+                
+        <item>"     <!--  Week 48 -->
+En la llum que cap a l’ànima
+vol afluir poderosa de les alc,ades còsmiques,
+compareix la certesa del pensar universal
+que resol de l’ànima els enigmes,
+i reuneix el poder dels seus rajos
+desvetllant l’amor en el cor humà.
+        "</item>
+                
+        <item>"     <!--  Week 49 -->
+Sento la forc,a de l’existència del món:
+així parla la claror del pensament,
+evocant el creixement de l’esperit propi
+en les ombrívoles nits del món,
+i mena els rajos d’esperanc,a de dins
+vers el proper dia còsmic.
+        "</item>
+                        
+        <item>"     <!--  Week 50 -->
+l jo humà li parla, poderós,
+el goig d’arribar a ser
+de l’existència del món,
+i allibera les forces del seu ésser:
+portant al teu endins la meva vida,
+alliberada del seu sortilegi,
+arribo al meu objectiu veritable.
+        "</item>
+                
+        <item>"     <!--  Week 51 -->
+A dins de l’ésser de l’home
+es vessa la plenitud dels sentits.
+L’esperit dels mons es troba
+en la imatge reflectida de l’ull humà,
+que ha d’extreure renovada
+de l’esperit la seva forc,a.
+        "</item>
+        
+        <item>"     <!--  Week 52 -->
+Quan des dels fons de l’ànima
+l’esperit s’adrec,a cap a l’existència del món,
+i la bellesa emana de les vastituds de l’espai,
+s’aboca en els cossos humans
+la forc,a de la vida, des dels cels llu¬nyans,
+i reuneix, amb acte poderós,
+l’ésser de l’esperit amb l’existència del món.
+        "</item>
+        
+    </string-array>
+</resources>

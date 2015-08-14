@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Language dependant UI -->
+    <string name="title">Calendar of the Soul</string>
+    <string name="version">Version </string>
+    
+    <!-- Menu entires -->
+    <string name="current_week">Display Current Week</string>
+    <string name="corresponding_week">Display Corresponding Week</string>
+    <string name="select_week">Select Week</string>
+    <string name="set_date">Select Date</string>
+    <string name="change_lang">Change Language</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="quit">Quit</string>
+    
+    <!-- Builds the credit caption "<translation>: <translator>" (e.g. Translation: John Doe) -->
+    <string name="translation">Translation:</string>
+    <string name="translator">Liselotte Mann and William Mann</string>
+    
+    <!-- The origin from which this translation was obtained  -->
+    <string name="source"><![CDATA[<a href="http://www.steinerbooks.org/">SteinerBooks.org</a>]]></string>
+    
+    <!-- Information regarding the language -->
+    <string name="dir">LTR</string>
+    
+    <!--  Sharing the app -->
+	<string name="reccomend">I would like to recommend the Calendar of the Soul application. Visit Google Play to download</string>
+    
+    
+    <!-- Verses in order from Week01 to Week52 -->
+    <string name="week">Verse number</string>
+    <string-array name="verses">
+        <item>"		<!-- Week 01 -->
+When out of world-wide spaces
+The sun speaks to the human mind,
+And gladness from the depths of soul
+Becomes, in seeing, one with light,
+Then rising from the sheath of self,
+Thoughts soar to distances of space
+And dimly bind
+The human being to the spirit's life.
+		"</item>
+		
+        <item>"		<!--  Week 02 -->
+Out in the sense-world's glory
+The power of thought gives up
+its separate being,
+And spirit worlds discover
+Again their human offspring,
+Who germinates in them
+But in itself must find
+The fruit of soul.
+        "</item>
+		
+        <item>"		<!--  Week 03 -->
+Thus to the World-All speaks,
+In self-forgetfulness
+And mindful of its primal state,
+The growing human I:
+In you, if I can free myself
+From fetters of my selfhood,
+I fathom my essential being.
+        "</item>
+        		
+        <item>"		<!--  Week 04 -->
+I sense a kindred nature to my own:
+Thus speaks perceptive feeling
+As in the sun-illuminated world
+It merges with the floods of light;
+To thinking's clarity
+My feeling would give warmth
+And firmly bind as one
+The human being and the world.
+        "</item>
+        		
+        <item>"		<!--  Week 05 -->
+Within the light that out of spirit depths
+Weaves germinating power into space
+And manifests the gods' creative work:
+Within its shine, the soul's true being
+Is widened into worldwide life
+And resurrected
+From narrow selfhood's inner power.
+        "</item>
+        		
+        <item>"		<!--  Week 06 -->
+There has arisen from its narrow limits
+My self and finds itself
+As revelation of all worlds
+Within the sway of time and space;
+The world, as archetype divine,
+Displays to me at every turn
+The truth of my own likeness.
+        "</item>
+        		
+        <item>"		<!--  Week 07 -->
+My self is threatening to fly forth,
+Lured strongly by the world's enticing light.
+Come forth, prophetic feeling,
+Take up with strength your rightful task:
+Replace in me the power of thought
+Which in the senses' glory
+Would gladly lose itself.
+        "</item>
+        		
+        <item>"		<!--  Week 08 -->
+The senses' might grows strong
+United with the gods' creative work;
+It presses down my power of thinking
+Into a dreamlike dullness.
+When godly being
+Desires union with my soul,
+Must human thinking
+In quiet dream-life rest content.
+        "</item>
+        		
+        <item>"		<!--  Week 09 -->
+When I forget the narrow will of self,
+The cosmic warmth that heralds summer's glory
+Fills all my soul and spirit;
+To lose myself in light
+Is the command of spirit vision
+And intuition tells me strongly:
+O lose yourself to find yourself.
+        "</item>
+        		        
+        <item>"		<!--  Week 10 -->
+To summer's radiant heights
+The sun in shining majesty ascends;
+It takes my human feeling
+Into its own wide realms of space.
+Within my inner being stirs
+Presentiment which heralds dimly,
+You shall in future know:
+A godly being now has touched you.
+        "</item>
+		
+        <item>"		<!--  Week 11 -->
+In this the sun's high hour it rests
+With you to understand these words of wisdom:
+Surrender to the beauty of the world,
+Be stirred with new-enlivened feeling;
+The human I can lose itself
+And find itself within the cosmic I.
+        "</item>
+		
+        <item>"		<!--  Week 12 -->
+The radiant beauty of the world
+Compels my inmost soul to free
+God-given powers of my nature
+That they may soar into the cosmos,
+To take wing from myself
+And trustingly to seek myself
+In cosmic light and cosmic warmth.
+        "</item>
+		
+        <item>"		<!--  Week 13 -->
+And when I live in senses' heights,
+There flames up deep within my soul
+Out of the spirit's fiery worlds
+The gods' own word of truth:
+In spirit sources seek expectantly
+To find your spirit kinship.
+        "</item>
+        		
+        <item>"		<!--  Week 14 -->
+Surrendering to senses' revelation
+I lost the drive of my own being,
+And dreamlike thinking seemed
+To daze and rob me of myself.
+Yet quickening there draws near
+In sense appearance cosmic thinking.
+        "</item>
+        		
+        <item>"		<!--  Week 15 -->
+I feel enchanted weaving
+Of spirit within outer glory.
+In dullness of the senses
+It has enwrapt my being
+In order to bestow the strength
+Which in its narrow bounds my I
+Is powerless to give itself.
+        "</item>
+        		
+        <item>"		<!--  Week 16 -->
+To bear in inward keeping spirit bounty
+Is stern command of my prophetic feeling,
+That ripened gifts divine
+Maturing in the depths of soul
+To selfhood bring their fruits.
+        "</item>
+        		
+        <item>"		<!--  Week 17 -->
+Thus speaks the cosmic Word
+That I by grace through senses' portals
+Have led into my innermost soul:
+Imbue your spirit depths
+With my wide world horizons
+To find in future time myself in you.
+        "</item>
+        		
+        <item>"		<!--  Week 18 -->
+Can I expand my soul
+That it unites itself
+With cosmic Word received as seed?
+I sense that I must find the strength
+To fashion worthily my soul
+As fitting raiment for the spirit.
+        "</item>
+        		
+        <item>"		<!--  Week 19 -->
+In secret to encompass now
+With memory what I've newly got
+Shall be my striving's further aim:
+Thus, ever strengthening, selfhood's forces
+Shall be awakened from within
+And growing, give me to myself.
+        "</item>
+        		        
+        <item>"		<!--  Week 20 -->
+I feel at last my life's reality
+Which, severed from the world's existence,
+Would in itself obliterate itself,
+And building only on its own foundation,
+Would in itself bring death upon itself.
+        "</item>
+        		
+        <item>"		<!--  Week 21 -->
+I feel strange power, bearing fruit
+And gaining strength to give myself to me.
+I sense the seed maturing
+And expectation, light-filled, weaving
+Within me on my selfhood's power.
+        "</item>
+		
+        <item>"		<!--  Week 22 -->
+The light from world-wide spaces
+Works on within with living power;
+Transformed to light of soul
+It shines into the spirit depths
+To bring to birth the fruits
+Whereby out of the self of worlds
+The human self in course of time shall ripen.
+        "</item>
+		
+        <item>"		<!--  Week 23 -->
+There dims in damp autumnal air
+The senses' luring magic;
+The light's revealing radiance
+Is dulled by hazy veils of mist.
+In distances around me I can see
+The autumn's winter sleep;
+The summer's life has yielded
+Itself into my keeping.
+        "</item>
+        		
+        <item>"		<!--  Week 24 -->
+Unceasingly itself creating
+Soul life becomes aware of self;
+The cosmic spirit, striving on,
+Renews itself by self-cognition,
+And from the darkness of the soul
+Creates the fruit of self-engendered will.
+        "</item>
+        		
+        <item>"		<!--  Week 25 -->
+I can belong now to myself
+And shining spread my inner light
+Into the dark of space and time.
+Toward sleep is urging all creation,
+But inmost soul must stay awake
+And carry wakefully sun's glowing
+Into the winter's icy flowing.
+        "</item>
+        		
+        <item>"		<!--  Week 26 -->
+O Nature, your maternal life
+I bear within the essence of my will.
+And my will's fiery energy
+Shall steel my spirit striving,
+That sense of self springs forth from it
+To hold me in myself.
+        "</item>
+        		
+        <item>"		<!--  Week 27 -->
+When to my being's depths I penetrate,
+There stirs expectant longing
+That self-observing, I may find myself
+As gift of summer sun, a seed
+That warming lives in autumn mood
+As germinating force of soul.
+        "</item>
+        		
+        <item>"		<!--  Week 28 -->
+I can, in newly quickened inner life,
+Sense wide horizons in myself.
+The force and radiance of my thought —
+Coming from soul's sun power —
+Can solve the mysteries of life,
+And grant fulfillment now to wishes
+Whose wings have long been lamed by hope.
+        "</item>
+        		
+        <item>"		<!--  Week 29 -->
+To fan the spark of thinking into flame
+By my own strong endeavor,
+To read life's inner meaning
+Out of the cosmic spirit's fount of strength:
+This is my summer heritage,
+My autumn solace, and my winter hope.
+        "</item>
+        		        
+        <item>"		<!--  Week 30 -->
+There flourish in the sunlight of my soul
+The ripened fruits of thinking;
+To conscious self-assurance
+The flow of feeling is transformed.
+I can perceive now joyfully
+The autumn's spirit-waking:
+The winter will arouse in me
+The summer of the soul.
+        "</item>
+        		
+        <item>"		<!--  Week 31 -->
+The light from spirit depths
+Strives to ray outwards, sun-imbued;
+Transformed to forceful will of life
+It shines into the senses' dullness
+To bring to birth the powers
+Whereby creative forces, soul-impelled,
+Shall ripen into human deeds.
+        "</item>
+		
+        <item>"		<!--  Week 32 -->
+I feel my own force, bearing fruit
+And gaining strength to give me to the world.
+My inmost being I feel charged with power
+To turn with clearer insight
+Toward the weaving of life's destiny.
+        "</item>
+		
+        <item>"		<!--  Week 33 -->
+I feel at last the world's reality
+Which, lacking the communion of my soul,
+Would in itself be frosty, empty life,
+And showing itself powerless
+To recreate itself in souls,
+Would in itself find only death.
+        "</item>
+        		
+        <item>"		<!--  Week 34 -->
+In secret inwardly to feel
+How all that I've preserved of old
+Is quickened by new-risen sense of self:
+This shall, awakening, pour forth cosmic forces
+Into the outer actions of my life
+And growing, mould me into true existence.
+        "</item>
+        		
+        <item>"		<!--  Week 35 -->
+Can I know life's reality
+So that it's found again
+Within my soul's creative urge?
+I feel that I am granted power
+To make my self, as humble part,
+At home within the cosmic self.
+        "</item>
+        		
+        <item>"		<!--  Week 36 -->
+Within my being's depths there speaks,
+Intent on revelation,
+The cosmic Word mysteriously:
+Imbue your labor's aims
+With my bright spirit light
+To sacrifice yourself through me.
+        "</item>
+        		
+        <item>"		<!--  Week 37 -->
+To carry spirit light into world-winter-night
+My heart is ardently impelled,
+That shining seeds of soul
+Take root in grounds of worlds
+And Word Divine through senses' darkness
+Resounds, transfiguring all life.        "</item>
+        		
+        <item>"		<!--  Week 38 -->
+The spirit child within my soul
+I feel freed of enchantment.
+In heart-high gladness has
+The holy cosmic Word engendered
+The heavenly fruit of hope,
+Which grows rejoicing into worlds afar
+Out of my being's godly roots.
+        "</item>
+        		
+        <item>"		<!--  Week 39 -->
+Surrendering to spirit revelation
+I gain the light of cosmic being;
+The power of thinking, growing clearer,
+Gains strength to give myself to me,
+And quickening there frees itself
+From thinker's energy my sense of self.
+        "</item>
+        		        
+        <item>"		<!--  Week 40 -->
+And when I live in spirit depths
+And dwell within my soul's foundations,
+There streams from love-worlds of the heart,
+To fill the vain delusion of the self,
+The fiery power of the cosmic Word.
+        "</item>
+        		
+        <item>"		<!--  Week 41 -->
+The soul's creative might
+Strives outward from the heart's own core
+To kindle and inflame god-given powers
+In human life to right activity;
+The soul thus shapes itself
+In human loving and in human working.
+        "</item>
+		
+        <item>"		<!--  Week 42 -->
+In this the shrouding gloom of winter
+The soul feels ardently impelled
+To manifest its innate strength,
+To guide itself to realms of darkness,
+Anticipating thus
+Through warmth of heart the sense-world's revelation.
+        "</item>
+		
+        <item>"		<!--  Week 43 -->
+In winter's depths is kindled
+True spirit life with glowing warmth;
+It gives to world appearance,
+Through forces of the heart, the power to be.
+Grown strong, the human soul defies
+With inner fire the coldness of the world.
+        "</item>
+        		
+        <item>"		<!--  Week 44 -->
+In reaching for new sense attractions,
+Soul-clarity would fill,
+Mindful of spirit-birth attained,
+The world's bewildering, sprouting growth
+With the creative will of my own thinking.
+        "</item>
+        		
+        <item>"		<!--  Week 45 -->
+My power of thought grows firm
+United with the spirit's birth.
+It lifts the senses' dull attractions
+To bright-lit clarity.
+When soul-abundance
+Desires union with the world's becoming,
+Must senses' revelation
+Receive the light of thinking.
+        "</item>
+        		
+        <item>"		<!--  Week 46 -->
+The world is threatening to stun
+The inborn forces of my soul;
+Now, memory, come forth
+From spirit depths, enkindling light;
+Invigorate my inward sight
+Which only by the strength of will
+Is able to sustain itself.
+        "</item>
+        		
+        <item>"		<!--  Week 47 -->
+There will arise out of the world's great womb,
+Quickening the senses' life, the joy of growth.
+Now may it find my strength of thought
+Well armed by powers divine
+Which strongly live within my being.
+        "</item>
+        		
+        <item>"		<!--  Week 48 -->
+Within the light that out of world-wide heights
+Would stream with power toward the soul,
+May certainty of cosmic thinking
+Arise to solve the soul's enigmas —
+And focusing its mighty rays,
+Awaken love in human hearts.
+        "</item>
+        		
+        <item>"		<!--  Week 49 -->
+I feel the force of cosmic life:
+Thus speaks my clarity of thought,
+Recalling its own spirit growth
+Through nights of cosmic darkness,
+And to the new approach of cosmic day
+It turns its inward rays of hope.
+        "</item>
+        		        
+        <item>"		<!--  Week 50 -->
+Thus to the human ego speaks
+In mighty revelation,
+Unfolding its inherent powers,
+The joy of growth throughout the world:
+I carry into you my life
+From its enchanted bondage
+And so attain my truest goal.
+        "</item>
+        		
+        <item>"		<!--  Week 51 -->
+Into our inner being
+The riches of the senses pour.
+The Cosmic Spirit finds itself
+Reflected in the human eye,
+Which ever must renew its strength
+From out that spirit source.
+        "</item>
+		
+        <item>"		<!--  Week 52 -->
+When from the depths of soul
+The spirit turns to the life of worlds
+And beauty wells from wide expanses,
+Then out of heaven's distances
+Streams life-strength into human bodies,
+Uniting by its mighty energy
+The spirit's being with our human life.
+        "</item>
+        		        
+        
+        </string-array>
+    
+</resources>

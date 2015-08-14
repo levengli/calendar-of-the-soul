@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/about_root"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/about_app_name"
+        android:text="@string/title"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/about_version_num"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy_week" />
+    
+    
+	<TextView
+        android:id="@+id/about_translated_by"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/translation"
+        android:paddingTop="10dp" />
+        
+    <TextView
+        android:id="@+id/about_translator_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/translator" />
+    
+    <TextView
+        android:id="@+id/about_source"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:clickable="true" />
+    
+    <TextView
+        android:id="@+id/about_author"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dp"
+        android:clickable="true" />
+           
+</LinearLayout>

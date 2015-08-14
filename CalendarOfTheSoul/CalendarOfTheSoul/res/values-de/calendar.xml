@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+     <!-- Language dependant UI -->
+    <string name="title"> Anthroposophischer Seelenkalender</string>
+    <string name="version">Versionsnummer </string>
+    
+    <!-- Menu entires -->
+    <string name="current_week">Aktuelle Woche anzeigen</string>
+    <string name="corresponding_week">Korrespondierende Woche anzeigen</string>
+    <string name="select_week">Woche auswählen</string>
+    <string name="set_date">Datum auswählen</string>
+    <string name="change_lang">Sprache ändern</string>
+    <string name="share">Teilen</string>
+    <string name="about">Über</string>
+    <string name="quit">Verlassen</string>
+    
+    <!-- Builds the credit caption "<translation>: <translator>" (e.g. Translation: John Doe) -->
+    <string name="translation">""</string>
+    <string name="translator">"Rudolf Steiner"</string>
+    
+    <!-- The origin from which this translation was obtained  -->
+    <string name="source"><![CDATA[<a href="http://wn.rsarchive.org/Books/GA040/CoTS/GA040_index.html">Rudolf Steiner Archive</a>]]></string>
+    
+    <!-- Information regarding the language -->
+    <string name="dir">LTR</string>
+    
+    <!--  Sharing the app -->
+    <string name="reccomend">Ich möchte den Anthroposophischer Seelenkalender Anwendung empfehlen. Besuchen Google Play zum Download</string>
+    
+    <!-- Verses in order from Week01 to Week52 -->
+    <string name="week">Spruch der Woche</string>
+    <string-array name="verses">
+        <item>"     <!--  Week 01 -->
+Wenn aus den Weltenweiten
+Die Sonne spricht zum Menschensinn
+Und Freude aus den Seelentiefen
+Dem Licht sich eint im Schauen,
+Dann ziehen aus der Selbstheit Hülle
+Gedanken in die Raumesfernen
+Und binden dumpf
+Des Menschen Wesen an des Geistes Sein.
+        "</item>
+    
+        <item>"     <!--  Week 02 -->
+Ins Äussre des Sinnesalls
+Verliert Gedankenmacht ihr Eigensein;
+Es finden Geisteswelten
+Den Menschensprossen wieder,
+Der Seinen Keim in ihnen,
+Doch seine Seelenfrucht
+In sich muss finden.
+        "</item>
+        
+        <item>"     <!--  Week 03 -->
+Es spricht zum Weltenall,
+Sich selbst vergessend
+Und seines Urstands eingedenk,
+Des Menschen wachsend Ich:
+In dir, befreiend mich
+Aus meiner Eigenheiten Fessel,
+Ergründe ich mein echtes Wesen.
+        "</item>
+                
+        <item>"     <!--  Week 04 -->
+Ich fühle Wesen meines Wesens:
+So spricht Empfindung,
+Die in der sonnerhellten Welt
+Mit Lichtesfluten sich vereint;
+Sie will dem Denken
+Zur Klarheit Wärme schenken
+Und Mensch und Welt
+In Einheit fest verbinden.
+        "</item>
+                
+        <item>"     <!--  Week 05 -->
+Im Lichte, das aus Geistestiefen
+Im Raume fruchtbar webend
+Der Götter Schaffen offenbart:
+In ihm erscheint der Seele Wesen
+Geweitet zu dem Weltensein
+Und auferstanden
+Aus enger Selbstheit Innenmacht.
+        "</item>
+                
+        <item>"     <!--  Week 06 -->
+Es ist erstanden aus der Eigenheit
+Mein Selbst und findet sich
+Als Weltenoffenbarung
+In Zeit- und Raumeskräften;
+Die Welt, sie zeigt mir überall
+Als göttlich Urbild
+Des eignen Abbilds Wahrheit.
+        "</item>
+                
+        <item>"     <!--  Week 07 -->
+Mein Selbst, es drohet zu entfliehen,
+Vom Weltenlichte mächtig angezogen.
+Nun trete du mein Ahnen
+In deine Rechte kräftig ein,
+Ersetze mir des Denkens Macht,
+Das in der Sinne Schein
+Sich selbst verlieren will.
+        "</item>
+                
+        <item>"     <!--  Week 08 -->
+Es wächst der Sinne Macht
+Im Bunde mit der Götter Schaffen,
+Sie drückt des Denkens Kraft
+Zur Traumes Dumpfheit mir herab.
+Wenn göttlich Wesen
+Sich meiner Seele einen will,
+Muss menschlich Denken
+Im Traumessein sich still bescheiden.
+        "</item>
+                
+        <item>"     <!--  Week 09 -->
+Vergessend meine Willenseigenheit
+Erfüllet Weltenwärme sommerkündend
+Mir Geist und Seelenwesen;
+Im Licht mich zu verlieren
+Gebietet mir das Geistesschauen,
+Und kraftvoll kündet Ahnung mir:
+Verliere dich, um dich zu finden.
+        "</item>
+                        
+        <item>"     <!--  Week 10 -->
+Zu sommerlichen Höhen
+Erhebt der Sonne leuchtend Wesen sich;
+Es nimmt mein menschlich Fühlen
+In seine Raumesweiten mit.
+Erahnend regt im Innern sich
+Empfindung, dumpf mir kündend,
+Erkennen wirst du einst:
+Dich fühlte jetzt ein Gotteswesen.
+        "</item>
+        
+        <item>"     <!--  Week 11 -->
+Es ist in dieser Sonnenstunde
+An dir, die weise Kunde zu erkennen:
+An Weltenschönheit hingegeben
+In dir dich fühlend zu durchleben:
+Verlieren kann das Menschen-Ich
+Und finden sich im Welten-Ich.
+        "</item>
+        
+        <item>"     <!--  Week 12 -->
+Der Welten Schönheitsglanz,
+Er zwinget mich aus Seelentiefen
+Des Eigenlebens Götterkräfte
+Zum Weltenfluge zu entbinden;
+Mich selber zu verlassen,
+Vertrauend nur mich suchend
+In Weltenlicht und Weltenwärme.
+        "</item>
+        
+        <item>"     <!--  Week 13 -->
+Und bin ich in den Sinneshöhen,
+So flammt in meinen Seelentiefen
+Aus Geistes Feuerwelten
+Der Götter Wahrheitswort:
+In Geistesgründen suche ahnend
+Dich geistverwandt zu finden.
+        "</item>
+                
+        <item>"     <!--  Week 14 -->
+An Sinnesoffenbarung hingegeben
+Verlor ich Eigenwesens Trieb,
+Gedankentraum, er schien
+Betäubend mir das Selbst zu rauben,
+Doch weckend nahet schon
+Im Sinneschein mir Weltendenken.
+        "</item>
+                
+        <item>"     <!--  Week 15 -->
+Ich fühle wie verzaubert
+Im Weltenschein des Geistes Weben:
+Es hat in Sinnesdumpfheit
+Gehüllt mein Eigenwesen,
+Zu schenken mir die Kraft:
+Die, ohnmächtig sich selbst zu geben,
+Mein Ich in seinen Schranken ist.
+        "</item>
+                
+        <item>"     <!--  Week 16 -->
+Zu bergen Geistgeschenk im Innern,
+Gebietet strenge mir mein Ahnen,
+Dass reifend Gottesgaben
+In Seelengründen fruchtend
+Der Selbstheit Früchte bringen.
+        "</item>
+                
+        <item>"     <!--  Week 17 -->
+Es spricht das Weltenwort,
+Das ich durch Sinnestore
+In Seelengründe durfte führen:
+Erfülle deine Geistestiefen
+Mit meinen Weltenweiten,
+Zu finden einstens mich in dir.
+        "</item>
+                
+        <item>"     <!--  Week 18 -->
+Kann ich die Seele weiten,
+Dass sie sich selbst verbindet
+Empfangnem Welten-Keimesworte?
+Ich ahne, dass ich Kraft muss finden,
+Die Seele würdig zu gestalten,
+Zum Geistes-Kleide sich zu bilden.
+        "</item>
+                
+        <item>"     <!--  Week 19 -->
+Geheimnisvoll das Neu-Empfang'ne
+Mit der Erinnerung zu umschliessen,
+Sei meines Strebens weitrer Sinn:
+Er soll erstarkend Eigenkräfte
+In meinem Innern wecken
+Und werdend mich mir selber geben.
+        "</item>
+                        
+        <item>"     <!--  Week 20 -->
+So fühl ich erst mein Sein,
+Das fern vom Welten-Dasein
+In sich, sich selbst erlöschen
+Und bauend nur auf eignem Grunde
+In sich, sich selbst ertöten müsste.
+        "</item>
+                
+        <item>"     <!--  Week 21 -->
+Ich fühle fruchtend fremde Macht
+Sich stärkend mir mich selbst verleihn,
+Den Keim empfind ich reifend
+Und Ahnung lichtvoll weben
+Im Innern an der Selbstheit Macht.
+        "</item>
+        
+        <item>"     <!--  Week 22 -->
+ Das Licht aus Weltenweiten,
+Im Innern lebt es kräftig fort:
+Es wird zum Seelenlichte
+Und leuchtet in die Geistestiefen,
+Um Früchte zu entbinden,
+Die Menschenselbst aus Weltenselbst
+Im Zeitenlaufe reifen lassen.
+       "</item>
+        
+        <item>"     <!--  Week 23 -->
+Es dämpfet herbstlich sich
+Der Sinne Reizesstreben;
+In Lichtesoffenbarung mischen
+Der Nebel dumpfe Schleier sich.
+Ich selber schau in Raumesweiten
+Des Herbstes Winterschlaf
+Der Sommer hat an mich
+Sich selber hingegeben.
+        "</item>
+                
+        <item>"     <!--  Week 24 -->
+Sich selbst erschaffend stets,
+Wird Seelensein sich selbst gewahr;
+Der Weltengeist, er strebet fort
+In Selbsterkenntnis neu belebt
+Und schafft aus Seelenfinsternis
+Des Selbstsinns Willensfrucht.
+        "</item>
+                
+        <item>"     <!--  Week 25 -->
+Ich darf nun mir gehören
+Und leuchtend breiten Innenlicht
+In Raumes- und in Zeitenfinsternis.
+Zum Schlafe drängt natürlich Wesen,
+Der Seele Tiefen sollen wachen
+Und wachend tragen Sonnengluten
+In kalte Winterfluten.
+        "</item>
+                
+        <item>"     <!--  Week 26 -->
+Natur, dein mütterliches Sein,
+Ich trage es in meinem Willenswesen;
+Und meines Willens Feuermacht,
+Sie stählet meines Geistes Triebe,
+Dass sie gebären Selbstgefühl,
+Zu tragen mich in mir.
+        "</item>
+                
+        <item>"     <!--  Week 27 -->
+In meines Wesens Tiefen dringen:
+Erregt ein ahnungsvolles Sehnen,
+Dass ich mich selbstbetrachtend finde,
+Als Sommersonnengabe, die als Keim
+In Herbstesstimmung wärmend lebt
+Als meiner Seele Kräftetrieb.
+        "</item>
+                
+        <item>"     <!--  Week 28 -->
+Ich kann im Innern neu belebt
+Erfühlen eignen Wesens Weiten
+Und krafterfüllt Gedankenstrahlen
+Aus Seelensonnenmacht
+Den Lebensrätseln lösend spenden,
+Erfüllung manchem Wunsche leihen,
+Dem Hoffnung schon die Schwingen lähmte.
+        "</item>
+                
+        <item>"     <!--  Week 29 -->
+Sich selbst des Denkens Leuchten
+Im Innern kraftvoll zu entfachen,
+Erlebtes sinnvoll deutend
+Aus Weltengeistes Kräftequell,
+Ist mir nun Sommererbe,
+Ist Herbstesruhe und auch Winterhoffnung.
+        "</item>
+                        
+        <item>"     <!--  Week 30 -->
+Es spriessen mir im Seelensonnenlicht
+Des Denkens reife Früchte,
+In Selbstbewusstseins Sicherheit
+Verwandelt alles Fühlen sich.
+Empfinden kann ich freudevoll
+Des Herbstes Geisterwachen:
+Der Winter wird in mir
+Den Seelensommer wecken.
+        "</item>
+                
+        <item>"     <!--  Week 31 -->
+Das Licht aus Geistestiefen,
+Nach aussen strebt es sonnenhaft:
+Es wird zur Lebenswillenskraft
+Und leuchtet in der Sinne Dumpfheit,
+Um Kräfte zu entbinden,
+Die Schaffensmächte aus Seelentrieben
+Im Menschenwerke reifen lassen.
+        "</item>
+        
+        <item>"     <!--  Week 32 -->
+Ich fühle fruchtend eigne Kraft
+Sich stärkend mich der Welt verleihn;
+Mein Eigenwesen fühl ich kraftend
+Zur Klarheit sich zu wenden
+Im Lebensschicksalsweben.
+        "</item>
+        
+        <item>"     <!--  Week 33 -->
+So fühle ich erst die Welt,
+Die ausser meiner Seele Miterleben
+An sich nur frostig leeres Leben
+Und ohne Macht sich offenbarend,
+In Seelen sich von neuem schaffend,
+In sich den Tod nur finden könnte.
+        "</item>
+                
+        <item>"     <!--  Week 34 -->
+Geheimnisvoll das Alt-Bewahrte
+Mit neuerstandnem Eigensein
+Im Innern sich belebend fühlen:
+Es soll erweckend Weltenkräfte
+In meines Lebens Aussenwerk ergiessen
+Und werdend mich ins Dasein prägen.
+        "</item>
+                
+        <item>"     <!--  Week 35 -->
+Kann ich das Sein erkennen,
+Dass es sich wiederfindet
+Im Seelenschaffensdrange?
+Ich fühle, dass mir Macht verlieh'n,
+Das eigne Selbst dem Weltenselbst
+Als Glied bescheiden einzuleben.
+        "</item>
+                
+        <item>"     <!--  Week 36 -->
+In meines Wesens Tiefen spricht
+Zur Offenbarung drängend
+Geheimnisvoll das Weltenwort:
+Erfülle deiner Arbeit Ziele
+Mit meinem Geisteslichte,
+Zu opfern dich durch mich.
+        "</item>
+                
+        <item>"     <!--  Week 37 -->
+Zu tragen Geisteslichte in Weltenwinternacht
+Erstrebet selig meines Herzens Trieb,
+Dass leuchtend Seelenkeime
+In Weltengründen wurzeln,
+Und Gotteswort im Sinnesdunkel
+Verklärend alles Sein durchtönt.
+        "</item>
+                
+        <item>"     <!--  Week 38 -->
+Ich fühle wie entzaubert
+Das Geisteskind im Seelenschoss;
+Es hat in Herzenshelligkeit
+Gezeugt das Heilige Weltenwort
+Der Hoffnung Himmelsfrucht,
+Die jubelnd wächst in Weltenfernen
+Aus meines Wesens Gottesgrund.
+        "</item>
+                
+        <item>"     <!--  Week 39 -->
+An Geistesoffenbarung hingegeben
+Gewinne ich des Weltenwesens Licht.
+Gedankenkraft, sie wächst
+Sich klärend mir mich selbst zu geben,
+Und weckend löst sich mir
+Aus Denkermacht das Selbstgefühl.
+        "</item>
+                        
+        <item>"     <!--  Week 40 -->
+Und bin ich in den Geistestiefen,
+Erfüllt in meinen Seelengründen
+Aus Herzens Liebewelten
+Der Eigenheiten leerer Wahn
+Sich mit des Weltenwortes Feuerkraft.
+        "</item>
+                
+        <item>"     <!--  Week 41 -->
+Der Seele Schaffensmacht,
+Sie strebet aus dem Herzensgrunde,
+Im Menschenleben Götterkräfte
+Zu rechtem Wirken zu entflammen,
+Sich selber zu gestalten
+In Menschenliebe und im Menschenwerke.
+        "</item>
+        
+        <item>"     <!--  Week 42 -->
+Es ist in diesem Winterdunkel
+Die Offenbarung eigner Kraft
+Der Seele starker Trieb,
+In Finsternisse sie zu lenken
+Und ahnend vorzufühlen
+Durch Herzenswärme Sinnesoffenbarung.
+        "</item>
+        
+        <item>"     <!--  Week 43 -->
+In winterlichen Tiefen
+Erwarmt des Geistes wahres Sein;
+Es gibt dem Weltenscheine
+Durch Herzenskräfte Daseinsmächte;
+Der Weltenkälte trotzt erstarkend
+Das Seelenfeuer im Menscheninnern.
+        "</item>
+                
+        <item>"     <!--  Week 44 -->
+Ergreifend neue Sinnesreize
+Erfüllet Seelenklarheit
+Eingedenk vollzogener Geistgeburt,
+Verwirrend sprossend Weltenwerden
+Mit meines Denkens Schöpferwillen.
+        "</item>
+                
+        <item>"     <!--  Week 45 -->
+Es festigt sich Gedankenmacht
+Im Bunde mit der Geistgeburt,
+Sie hellt der Sinne dumpfe Reize
+Zur vollen Klarheit auf.
+Wenn Seelenfülle
+Sich mit dem Weltenwerden einen will,
+Muss Sinnesoffenbarung
+Des Denkens Licht empfangen.
+        "</item>
+                
+        <item>"     <!--  Week 46 -->
+Die Welt, sie drohet zu betäuben
+Der Seele eingeborene Kraft;
+Nun trete du, Erinnerung,
+Aus Geistestiefen leuchtend auf
+Und stärke mir das Schauen,
+Das nur durch Willenskräfte
+Sich selbst erhalten kann.
+        "</item>
+                
+        <item>"     <!--  Week 47 -->
+Es will erstehen aus dem Weltenschosse,
+Den Sinnenschein erquickend, Werdelust.
+Sie finde meines Denkens Kraft
+Gerüstet durch die Gotteskräfte,
+Die kräftig mir im Innern leben.
+        "</item>
+                
+        <item>"     <!--  Week 48 -->
+Im Lichte, das aus Weltenhöhen
+Der Seele machtvoll fliessen will,
+Erscheine, lösend Seelenrätsel,
+Des Weltendenkens Sicherheit,
+Versammelnd seiner Strahlen Macht,
+Im Menschenherzen Liebe weckend.
+        "</item>
+                
+        <item>"     <!--  Week 49 -->
+Ich fühle Kraft des Weltenseins:
+So spricht Gedankenklarheit,
+Gedenkend eignen Geistes Wachsen
+In finstern Weltennächten,
+Und neigt dem nahen Weltentage
+Des Innern Hoffnungsstrahlen.
+        "</item>
+                        
+        <item>"     <!--  Week 50 -->
+Es spricht zum Menschen-Ich,
+Sich machtvoll offenbarend
+Und seines Wesens Kräfte lösend,
+Des Weltendaseins Werdelust:
+In dich mein Leben tragend
+Aus seinem Zauberbanne,
+Erreiche ich mein wahres Ziel.
+        "</item>
+                
+        <item>"     <!--  Week 51 -->
+Ins Innre des Menschenwesens
+Ergiesst der Sinne Reichtum sich,
+Es findet sich der Weltengeist
+Im Spiegelbild des Menschenauges,
+Das seine Kraft aus ihm
+Sich neu erschaffen muss.
+        "</item>
+        
+        <item>"     <!--  Week 52 -->
+Wenn aus den Seelentiefen
+Der Geist sich wendet zu dem Weltensein
+Und Schönheit quillt aus Raumesweiten,
+Dann zieht aus Himmelsfernen
+Des Lebens Kraft in Menschenleiber
+Und einet, machtvoll wirkend,
+Des Geistes Wesen mit dem Menschensein.
+        "</item>
+        
+    </string-array>
+</resources>

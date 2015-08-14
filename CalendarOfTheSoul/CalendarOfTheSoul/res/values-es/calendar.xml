@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Language dependant UI -->
+    <string name="title">El Calen¬dariodel alma</string>
+    <string name="version">Versión </string>
+    
+    <!-- Menu entires -->
+    <string name="current_week">Visualizar semana actual</string>
+    <string name="corresponding_week">Visualizar semana correspondiente</string>
+    <string name="select_week">Seleccione la Semana</string>
+    <string name="set_date">Seleccione una fecha</string>
+    <string name="change_lang">Cambiar Idioma</string>
+    <string name="about">Sobre</string>
+    <string name="share">Cuota</string>
+    <string name="quit">Dejar de</string>
+    
+    <!-- Builds the credit caption "<translation>: <translator>" (e.g. Translation: John Doe) -->
+    <string name="translation">Traducción:</string>
+    <string name="translator">Miguel Lopez-Manresa</string>
+    
+    <!-- The origin from which this translation was obtained  -->
+    <string name="source"><![CDATA[<a href="http://chile.paudedamasc.com/">Cuadernos Pau de Damasc Chile</a>]]></string>
+    
+    <!-- Information regarding the language -->
+    <string name="dir">LTR</string>
+    
+    <!--  Sharing the app -->
+	<string name="reccomend">Me gustaría recomendar el calendario de la aplicación Soul. Visita Google Play para descargar</string>
+    
+    
+    <!-- Verses in order from Week01 to Week52 -->
+    <string name="week">Semana</string>
+    <string-array name="verses">
+        <item>"		<!-- Week 01 -->
+Cuando habla el Sol al sentido humano
+desde las vastedades del Universo,
+y el gozo surgido del alma
+se une a la luz en el contemplar, 
+emergen de las envolturas del yo
+pensamientos hacia las lejanías del espacio,
+enlazando inadvertidos al ser del hombre
+con la existencia del espíritu.
+
+		"</item>
+		
+        <item>"		<!--  Week 02 -->
+En lo exterior del universo sensorial
+el poder del pensar pierde su existencia propia;
+los mundos del espíritu encuentran
+de nuevo el brote del hombre,
+que si en ellos ha de hallar su germen,
+en sí mismo habrá de hallar
+el fruto de su alma.
+        "</item>
+		
+        <item>"		<!--  Week 03 -->
+Al universo le habla
+el yo creciente del hombre,
+y se olvida de sí mismo
+recordando su estado original:
+Dentro de tí, liberándome
+de las cadenas de mi idiosincrasia,
+fundamento mi auténtico ser.
+        "</item>
+        		
+        <item>"		<!--  Week 04 -->
+Siento la esencia de mi ser:
+así habla la sensación
+que, en el mundo iluminado por el Sol
+se une con los efluvios de luz;
+dar calor al pensar
+quiere la sensación
+y enlazar en firme unidad
+al hombre y el mundo.
+        "</item>
+        		
+        <item>"		<!--  Week 05 -->
+En la luz que, tejiendo en el espacio,
+desde las honduras del espíritu
+se revela la creación de los dioses,
+aparece la esencia del alma
+expandida hasta la existencia universal
+y resucitada emerge
+desde el poder íntimo de la estrecha yoidad.
+        "</item>
+        		
+        <item>"		<!--  Week 06 -->
+Mi yo ha resurgido de la singularidad
+y se descubre a sí mismo
+como manifestación cósmica 
+en las fuerzas del tiempo y del espacio;
+el mundo se me muestra por doquier
+como arquetipo divino
+de la verdad de mi propia imagen.
+        "</item>
+        		
+        <item>"		<!--  Week 07 -->
+Mi yo amenaza con evadirse
+poderosamente atraído por la luz del mundo.
+Interviene tú ahora, mi intuir,
+con fuerza en tu propio derecho;
+sustitúyeme el poder del pensar
+que en la apariencia de los sentidos
+quiere perderse a sí mismo.
+        "</item>
+        		
+        <item>"		<!--  Week 08 -->
+Crece el poder de los sentidos
+en alianza con el crear de los dioses,
+y me reduce la fuerza del pensar
+hacia el letargo del sueño.
+Si el ser divino
+quiere unirse con mi alma,
+el pensar humano
+habrá de amoldarse
+a la existencia del sueño.
+        "</item>
+        		
+        <item>"		<!--  Week 09 -->
+Olvidando lo peculiar de mi voluntad,
+el calor del mundo, heraldo del estío,
+me colma espíritu y alma;
+a perderme en la luz
+me exhorta la visión del espíritu
+y el intuir me anuncia poderoso:
+¡ piérdete, para volverte a encontrar !
+        "</item>
+        		        
+        <item>"		<!--  Week 10 -->
+A las alturas estivales asciende
+el ser resplandeciente del Sol;
+y se lleva consigo mi sentir humano
+hacia sus vastedades espaciales.
+Intuyendo, se agita dentro la sensación
+y me anuncia sordamente,
+un día reconocerás:
+¡ acaba de sentirte un ser divino !
+        "</item>
+		
+        <item>"		<!--  Week 11 -->
+De ti depende en esta hora solar
+reconocer la sabia noticia:
+entregado a la belleza del mundo,
+sintiéndote a ti mismo vivenciar:
+el yo humano puede perderse
+y a sí mismo encontrarse en el yo universal. 
+        "</item>
+		
+        <item>"		<!--  Week 12 -->
+El resplandor de la belleza del mundo
+me impele, desde las honduras del alma,
+a liberar en vuelo cósmico
+las fuerzas divinas de mi vida propia;
+a dejarme a mí mismo
+y, confiado, sólo a buscarme
+en la luz cósmica, en el calor universal.
+        "</item>
+		
+        <item>"		<!--  Week 13 -->
+Cuando estoy en las alturas de los sentidos
+centellea en las honduras de mi alma,
+desde los ígneos mundos del espíritu,
+la palabra de Verdad de los dioses:
+busca, intuyendo,
+en los fundamentos del espíritu,
+descubrirte con él emparentado.
+        "</item>
+        		
+        <item>"		<!--  Week 14 -->
+Entregado a la revelación de los sentidos
+perdí el impulso de mi propio ser particular,
+y el sueño del pensamiento, aturdiéndome,
+parecía robarme el yo.
+Pero ya se me acerca y despierta
+el pensar universal
+en la apariencia de los sentidos.
+        "</item>
+        		
+        <item>"		<!--  Week 15 -->
+Siento como si el tejer del espíritu
+estuviera hechizado en la apariencia sensorial:
+En la obnubilación de los sentidos
+se envolvió mi propio ser
+para otorgarme la fuerza,
+pues, impotente para darse a sí mismo,
+mi yo se halla entre sus barreras.
+        "</item>
+        		
+        <item>"		<!--  Week 16 -->
+Que cobije en mi interior el don del espíritu,
+me ordena, estricto, mi intuir,
+para que las dádivas de Dios, al madurar,
+fructificando en los fundamentos del alma,
+produzcan los frutos del yo.
+        "</item>
+        		
+        <item>"		<!--  Week 17 -->
+Así habla el Verbo Cósmico
+que por el portal de los sentidos
+pude conducir a los cimientos del alma:
+llena las honduras de tu espíritu
+con mis amplitudes universales
+para que un día me halles en tí mismo.
+        "</item>
+        		
+        <item>"		<!--  Week 18 -->
+¿ Puedo expandir mi alma
+para que llegue a unirse
+con la germinal Palabra Cósmica recibida ?
+Intuyo que he de hallar la fuerza
+para darle al alma forma digna
+y hacerla indumento del espíritu.
+        "</item>
+        		
+        <item>"		<!--  Week 19 -->
+Que el nuevo sentido de mi aspiración
+sea arropar secretamente con el recuerdo
+lo que acaba de recibirse:
+pues ha de despertar dentro de mi,
+dándoles fuerza, las potencias de mi yo,
+y al venir a ser, dotarme de mí mismo.
+        "</item>
+        		        
+        <item>"		<!--  Week 20 -->
+Y así empiezo a sentir mi ser
+que alejado de la existencia del mundo
+habría de extinguirse en sí mismo,
+y si se erigiera sólo en su propio cimiento
+en sí mismo se daría muerte.
+        "</item>
+        		
+        <item>"		<!--  Week 21 -->
+Siento un poder ajeno que da frutos
+y que, cobrando fuerza, me inviste con mi yo;
+percibo el germen que madura
+y el intuir en mi imterior
+que teje luminoso en el poder del mí mismo.
+        "</item>
+		
+        <item>"		<!--  Week 22 -->
+La luz de las lejanías del universo
+sigue viviendo pujante en el interior:
+se convierte en luz del alma
+y resplandece hacia las honduras del espíritu
+para liberar los frutos
+que, en el curso de los tiempos, 
+hacen madurar al yo humano
+desde el yo universal.
+        "</item>
+		
+        <item>"		<!--  Week 23 -->
+Disminuye otoñal
+el afán de sensación de los sentidos;
+en la manifestación de la luz se entremezclan
+los vaporosos velos de la niebla.
+Yo mismo contemplo en las lejanías del espacio
+el sueño invernal del otoño.
+El verano se me ha entregado a sí mismo.
+        "</item>
+        		
+        <item>"		<!--  Week 24 -->
+En permanente creación de sí mismo,
+el ser del alma cobra conciencia de sí;
+el espíritu de los mundos sigue adelante
+vivificado de nuevo en ese autoconocimiento
+y extrae de las tinieblas del alma
+el fruto volitivo del sentido del yo.
+        "</item>
+        		
+        <item>"		<!--  Week 25 -->
+Ahora puedo pertenecerme a mí
+y, luminoso, expandir la luz interior
+en la oscuridad del espacio y del tiempo.
+El ser natural impele al letargo,
+las honduras del alma han de despertar
+y, velando, llevar los ardores solares
+a los gélidos flujos del invierno.
+        "</item>
+        		
+        <item>"		<!--  Week 26 -->
+Naturaleza, tu esencia maternal
+yo llevo en mi ser volitivo;
+y el ígneo poder de mi voluntad
+forja los impulsos de mi espíritu,
+para generar el sentimiento del yo
+a fin de que me sostenga a mí mismo en mí.
+        "</item>
+        		
+        <item>"		<!--  Week 27 -->
+A penetrar en las honduras de mi ser:
+me incita un anhelo intuitivo
+de que, observándome, me encuentre a mi mismo
+como don solar del estío que, emanando calor,
+vive germinal en el ánimo de otoño
+como impulso dinámico de mi alma.
+        "</item>
+        		
+        <item>"		<!--  Week 28 -->
+Revivido nuevamente en mi interior
+puedo sentir las amplitudes del propio ser
+y lleno de pujanza,
+dispensar rayos de pensamiento
+desde el poder solar del alma,
+que resuelvan los enigmas de la vida;
+y puedo cumplir algunos deseos
+cuyas alas ya la esperanza detenía.
+        "</item>
+        		
+        <item>"		<!--  Week 29 -->
+Reavivar vigoroso uno mismo
+la luz del pensar en lo interior,
+y darle a lo vivenciado un sentido,
+desde el manantial de fuerzas
+del espíritu universal,
+es para mí ahora herencia de verano,
+reposo de otoño y esperanza de invierno.
+        "</item>
+        		        
+        <item>"		<!--  Week 30 -->
+Brotan en la luz solar de mi alma
+los frutos maduros del pensar,
+y en la certidumbre de la autoconciencia
+se transforma todo sentir.
+Puedo advertir con alegría
+el despertar del espíritu otoñal:
+el invierno avivará en mí
+el verano del alma.
+        "</item>
+        		
+        <item>"		<!--  Week 31 -->
+Solar, hacia fuera se abre paso la luz
+desde las honduras del espíritu:
+Conviértese en fuerza vital volitiva
+y brilla en la penumbra de los sentidos,
+para desatar energías que hagan madurar,
+de los impulsos del alma,
+los poderes creadores en la obra del hombre.
+        "</item>
+		
+        <item>"		<!--  Week 32 -->
+Siento fecunda mi propia fuerza
+que cobra pujanza y me da al mundo;
+siento que mi propio ser se fortalece
+y se encamina a la claridad
+en el tejer del destino en la vida.
+        "</item>
+		
+        <item>"		<!--  Week 33 -->
+Comienzo a sentir el mundo
+que, si mi alma no conviviera con él,
+sería por sí solo vida gélida y vacía,
+manifestando así su impotencia.
+Si no volviera a crearse en las almas
+en sí mismo sólo hallaría la muerte.
+        "</item>
+        		
+        <item>"		<!--  Week 34 -->
+Sentir misterioso lo conservado de antiguo
+que cobra vida en lo interior
+con resurgida existencia propia:
+eso ha de verter, despertándolas,
+fuerzas cósmicas en la obra externa de mi vida,
+y al venir a ser,
+ha de acuñarme en la existencia.
+        "</item>
+        		
+        <item>"		<!--  Week 35 -->
+¿Puedo reconocer al ser
+para que vuelva a encontrarse
+en el afán creador del alma ?
+Siento que el poder se me otorga
+de integrar humildemente al propio yo
+como miembro del Yo Universal.
+        "</item>
+        		
+        <item>"		<!--  Week 36 -->
+En las honduras de mi ser,
+pujando por revelarse,
+habla misterioso el Verbo Universal:
+Realiza los fines de tu labor
+con la luz de mi espíritu,
+para darte tú en ofrenda a través de mí.
+        "</item>
+        		
+        <item>"		<!--  Week 37 -->
+Gozoso aspira el impulso de mi corazón
+a llevar la luz del espíritu
+a la noche invernal del mundo,
+para que los gérmenes del alma, luciendo,
+arraiguen en los fundamentos del universo
+y el Verbo Divino resuene
+en la oscuridad de los sentidos
+y toda existencia transfigure.
+        "</item>
+        		
+        <item>"		<!--  Week 38 -->
+Siento al niño del espíritu
+en el seno del alma, como liberado del hechizo;
+en el resplandor del corazón
+el sagrado Verbo Cósmico ha engendrado
+el fruto celestial de la esperanza
+que crece jubiloso en las lejanías del universo
+desde el divino fundamento de mi ser.
+        "</item>
+        		
+        <item>"		<!--  Week 39 -->
+Entregado a la revelación del espíritu
+conquisto la luz de la esencia universal.
+La fuerza del pensamiento, despejándose,
+crece ya para dotarme de mí mismo
+y, al despertar, libera en mí,
+desde el poder de quien piensa,
+el sentimiento del yo.
+        "</item>
+        		        
+        <item>"		<!--  Week 40 -->
+Y cuando estoy en las honduras del espíritu
+el vacío delirio de las peculiaridades
+en los fundamentos de mi alma
+empieza a llenarse,
+desde mundos de amor del corazón,
+con el ígneo poder del Verbo Universal.
+        "</item>
+        		
+        <item>"		<!--  Week 41 -->
+El poder creador del alma,
+desde los cimientos del corazón,
+se esfuerza en encender fuerzas divinas
+en la vida humana, para el obrar justo,
+y plasmarse a sí mismo
+en el amor y en las obras del hombre.
+        "</item>
+		
+        <item>"		<!--  Week 42 -->
+En esta oscuridad del invierno
+el impulso más poderoso del alma
+es manifestar su propia fuerza,
+conducirla a las tinieblas
+e, intuyendo, presentir 
+la revelación de los sentidos
+con el calor del corazón.	
+        "</item>
+		
+        <item>"		<!--  Week 43 -->
+En las profundidades invernales cobra calor
+el verdadero ser del espíritu;
+y con las fuerzas del corazón
+le da a la apariencia del mundo
+energías para existir;
+el fuego del alma dentro del hombre
+se reaviva y al frío del mundo se enfrenta.
+        "</item>
+        		
+        <item>"		<!--  Week 44 -->
+Captando renovados estímulos sensorios,
+la claridad del alma que evoca
+el nacimiento consumado del espíritu,
+llena el confuso devenir emergente del mundo
+con la voluntad creadora de mi pensar
+        "</item>
+        		
+        <item>"		<!--  Week 45 -->
+Se consolida el poder del pensamiento
+unido al nacimiento del espíritu,
+y alumbra las vagas sensaciones
+a su plena claridad.
+Si la plenitud del alma
+quiere unirse con el devenir del mundo,
+la revelación sensorial
+ha de acoger la luz del pensar.
+        "</item>
+        		
+        <item>"		<!--  Week 46 -->
+El mundo amenaza con aturdir
+el poder ingénito del alma;
+emerge tú ahora, recuerdo,
+luciendo desde las honduras del espíritu;
+y fortalece mi mirada
+que sólo es capaz de sostenerse
+por los poderes de la voluntad.
+        "</item>
+        		
+        <item>"		<!--  Week 47 -->
+Desde el seno del mundo
+quiere resurgir el gozo del crecer,
+restaurando la apariencia sensorial.
+Que encuentre el poder de mi pensar,
+armado con las fuerzas divinas
+que viven pujantes en mi interior.
+        "</item>
+        		
+        <item>"		<!--  Week 48 -->
+En la luz que de alturas cósmicas
+poderosa quiere afluir hacia el alma,
+que surja la certeza del pensar universal
+resolviendo los enigmas del alma,
+y reúna el poder de sus rayos,
+despertando el amor en el corazón humano.
+        "</item>
+        		
+        <item>"		<!--  Week 49 -->
+Siento la fuerza de la existencia del mundo:
+así me habla la claridad del pensar,
+evocando el crecer del propio espíritu
+en las sombrías noches del orbe,
+y orienta hacia el cercano día del mundo
+los íntimos rayos de esperanza.
+        "</item>
+        		        
+        <item>"		<!--  Week 50 -->
+En poderosa manifestación, 
+le habla al yo humano
+el gozo del venir a existencia del mundo,
+liberando las fuerzas de su ser:
+Llevando a tí mi vida,
+desde el hechizo en que se encuentra,
+alcanzo mi verdadero objetivo.
+        "</item>
+        		
+        <item>"		<!--  Week 51 -->
+Dentro del ser del hombre
+se vierte la riqueza de los sentidos;
+el espíritu del mundo se descubre a sí mismo
+en la imagen refleja del ojo humano,
+que ha de extraer renovada su fuerza
+partiendo del espíritu.
+        "</item>
+		
+        <item>"		<!--  Week 52 -->
+Cuando el espíritu se orienta
+hacia la existencia del mundo
+desde las honduras del alma
+y brota la belleza de las amplitudes del espacio,
+afluye de las lejanías celestiales
+la fuerza de la vida,
+penetrando en los cuerpos humanos,
+reuniendo, en acción poderosa,
+la esencia del espíritu
+con la existencia del hombre.
+        "</item>
+        		        
+        
+        </string-array>
+    
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="BackButton" severity="warning" />
+    <issue id="EasterEgg" severity="warning" />
+    <issue id="FieldGetter" severity="warning" />
+    <issue id="IconExpectedSize" severity="warning" />
+    <issue id="MissingTranslation" severity="ignore" />
+    <issue id="SelectableText">
+        <ignore path="res\layout\about.xml" />
+    </issue>
+    <issue id="StopShip" severity="warning" />
+    <issue id="TypographyQuotes" severity="ignore" />
+    <issue id="UnusedIds" severity="ignore" />
+</lint>
